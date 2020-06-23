@@ -1,4 +1,6 @@
-require "jarvis/version"
+# frozen_string_literal: true
+
+require 'jarvis/version'
 
 module Jarvis
   class Error < StandardError; end
