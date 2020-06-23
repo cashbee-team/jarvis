@@ -37,3 +37,19 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/[USERN
 ## Code of Conduct
 
 Everyone interacting in the Jarvis project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/[USERNAME]/jarvis/blob/master/CODE_OF_CONDUCT.md).
+
+## About Cashbee
+
+[![cashbee][cashbee-logo]][cashbee]
+
+Jarvis is maintained and funded by Cashbee.
+The names and logos for Cashbee are trademarks of Cashbee.
+
+We love open source software!
+See [our other projects][community].
+We are [available for hire][hire].
+
+[cashbee]: https://www.cashbee.fr/?utm_source=github
+[cashbee-logo]: https://assets.website-files.com/5de92161372b4da5bdf82ef1/5de937c51db32aaf9bd95427_Cashbee.svg
+[community]: https://github.com/cashbee-team/
+[hire]: https://www.cashbee.fr/recrutement

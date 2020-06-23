@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    jarvis (1.0.0)
+    jarvis (0.1.0)
 
 GEM
   remote: https://rubygems.org/
