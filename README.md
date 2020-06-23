@@ -32,11 +32,11 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/jarvis. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/cashbee-team/jarvis. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 ## Code of Conduct
 
-Everyone interacting in the Jarvis project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/[USERNAME]/jarvis/blob/master/CODE_OF_CONDUCT.md).
+Everyone interacting in the Jarvis project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/cashbee-team/jarvis/blob/master/CODE_OF_CONDUCT.md).
 
 ## About Cashbee
 
@@ -47,9 +47,7 @@ The names and logos for Cashbee are trademarks of Cashbee.
 
 We love open source software!
 See [our other projects][community].
-We are [available for hire][hire].
 
 [cashbee]: https://www.cashbee.fr/?utm_source=github
 [cashbee-logo]: https://assets.website-files.com/5de92161372b4da5bdf82ef1/5de937c51db32aaf9bd95427_Cashbee.svg
 [community]: https://github.com/cashbee-team/
-[hire]: https://www.cashbee.fr/recrutement
